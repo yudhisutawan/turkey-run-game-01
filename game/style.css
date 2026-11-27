@@ -1,0 +1,7 @@
+html, body { margin: 0; padding: 0; background: #241503; }
+#wrap { width: 1280px; max-width: 100vw; margin: 0 auto; }
+#game { display: block; width: 100%; height: auto; background: #f7c873; cursor: pointer; }
+#hint {
+  font: 14px Georgia, serif; color: #e8c98a; text-align: center;
+  padding: 8px 12px 14px; letter-spacing: 0.4px;
+}
